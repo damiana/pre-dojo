@@ -1,2 +1,20 @@
 Coloque aqui suas instruções ou comentários que ache útil/relevantes para possamos ler 
 quando estivermos avaliando a sua solução
+
+
+*******************************************
+
+Desafio Jogo de Tiro
+
+Projeto para a consultoria 5A:
+
+    Damiana Costa
+    damiana.costa@yahoo.com.br
+ 
+    Tecnologias envolvidas: Java, JUnit
+
+
+- Rodar o teste unitário com JUnit4;
+- O arquivo de logs a ser lido, deve estar na pasta raiz do projeto, Ex.: /SniperAmericano/partidas.log;
+- Para validar o caso de teste foi usado o arquivo partidas-teste.log;
+
